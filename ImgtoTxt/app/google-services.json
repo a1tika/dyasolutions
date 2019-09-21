@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "935656665425",
+    "firebase_url": "https://dyslexia-53d01.firebaseio.com",
+    "project_id": "dyslexia-53d01",
+    "storage_bucket": "dyslexia-53d01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935656665425:android:dd9f1dd21626b01176e370",
+        "android_client_info": {
+          "package_name": "com.google.firebase.codelab.mlkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935656665425-bgdkhigv3ggdtgs29pnja1o43u0oo53m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9Awu-tWAS4IWDHC4fTpU2_zj0n3tWHEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935656665425-bgdkhigv3ggdtgs29pnja1o43u0oo53m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
